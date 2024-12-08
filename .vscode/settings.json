@@ -1,0 +1,7 @@
+{
+    "go.languageServerFlags": [
+        "-rpc.trace",
+        "serve"
+    ],
+    "go.useLanguageServer": true
+}
